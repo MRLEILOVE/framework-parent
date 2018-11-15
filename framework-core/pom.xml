@@ -11,10 +11,6 @@
     </parent>
     <artifactId>framework-core</artifactId>
 
-    <name>core</name>
-    <!-- FIXME change it to the project's website -->
-    <url>http://www.example.com</url>
-
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>

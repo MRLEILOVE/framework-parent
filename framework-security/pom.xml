@@ -11,9 +11,6 @@
     <artifactId>framework-security</artifactId>
     <packaging>jar</packaging>
 
-    <name>security</name>
-    <description>security</description>
-
     <properties>
     </properties>
 
